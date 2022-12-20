@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1671555040 source:c:\users\abuhu\onedrive\desktop\code\random\game\main.cpp
+	<graphics.h>
+	<time.h>
+	<stdio.h>
+	<windows.h>
+	<stdlib.h>
+
